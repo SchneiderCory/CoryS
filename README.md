@@ -69,7 +69,10 @@ These predefined shapes are all formatted in a similar way with the main differe
     
     </body>
     </html>
+	
 *This should produce an image that looks like this:*
+
 ![SVG Circle Image](https://i.imgur.com/6tvXJAt.png)
+
 Notice the points of the shape are listed by "x,y x2,y2, x3,y3" and different from the circle, the fill, stroke, and stroke width start with "style=". 
 
